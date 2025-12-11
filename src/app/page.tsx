@@ -46,7 +46,7 @@ export default function CoffeeShopPage() {
 
       <div id="hero" data-section="hero">
         <HeroShowcaseSplitOverlay
-          title="Craft Your Perfect Coffee Experience"
+          title="Craft best coffee in your life"
           description="Discover our handcrafted coffee blends and welcoming atmosphere. From rich espresso to smooth cold brew, every cup is made with care."
           tags={["Specialty Coffee", "Fresh Roasted", "Local Favorite", "Cozy Vibes"]}
           buttons={[
